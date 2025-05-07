@@ -1,0 +1,8 @@
+[project]
+name = "message-formatter"
+version = "0.1.0"
+description = "A Python script to format messages with custom decorators"
+authors = [
+  { name="Kashifali", email="kashifali34501.com" },
+]
+requires-python = ">=3.8"
