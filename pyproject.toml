@@ -1,0 +1,12 @@
+[project]
+name = "hello-agent"
+version = "0.1.0"
+description = "A simple Hello World agent using OpenAI Agent SDK"
+authors = [
+  { name="Your Name", email="your.email@example.com" },
+]
+requires-python = ">=3.8"
+dependencies = [
+    "openai",
+    "python-dotenv"
+]
